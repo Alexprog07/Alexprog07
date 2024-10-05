@@ -1,4 +1,4 @@
-## Hi there 👋
+### Привет всем, я Андреев Александр 👋
 
 <!--
 **Alexprog07/Alexprog07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Заголовок 
-
-Обо мне:
-
-Соц.сети:
-
+## Я разработчик C#, C/C++ 
