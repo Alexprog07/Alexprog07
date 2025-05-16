@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Я разработчик C#, C/C++ 
+#### Я начинающий разработчик.
